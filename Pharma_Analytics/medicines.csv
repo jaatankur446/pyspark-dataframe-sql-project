@@ -1,0 +1,301 @@
+medicine_id,medicine_name,category,manufacturer
+M0001,Paracetamol,Vitamin,PharmaOne
+M0002,Paracetamol,Antibiotic,PharmaOne
+M0003,Paracetamol,Cardiac,HealthPlus
+M0004,Atorvastatin,Vitamin,HealthPlus
+M0005,Atorvastatin,Diabetes,HealthPlus
+M0006,Vitamin D,Diabetes,PharmaOne
+M0007,Vitamin D,Painkiller,PharmaOne
+M0008,Atorvastatin,Vitamin,BioLabs
+M0009,Vitamin D,Antibiotic,BioLabs
+M0010,Insulin,Antibiotic,HealthPlus
+M0011,Paracetamol,Diabetes,HealthPlus
+M0012,Vitamin D,Vitamin,MediCare
+M0013,Paracetamol,Vitamin,HealthPlus
+M0014,Atorvastatin,Diabetes,HealthPlus
+M0015,Atorvastatin,Cardiac,PharmaOne
+M0016,Amoxicillin,Painkiller,HealthPlus
+M0017,Vitamin D,Antibiotic,PharmaOne
+M0018,Vitamin D,Diabetes,MediCare
+M0019,Vitamin D,Vitamin,HealthPlus
+M0020,Paracetamol,Diabetes,HealthPlus
+M0021,Paracetamol,Vitamin,PharmaOne
+M0022,Amoxicillin,Painkiller,HealthPlus
+M0023,Insulin,Vitamin,PharmaOne
+M0024,Vitamin D,Diabetes,BioLabs
+M0025,Paracetamol,Cardiac,MediCare
+M0026,Insulin,Vitamin,BioLabs
+M0027,Paracetamol,Diabetes,BioLabs
+M0028,Amoxicillin,Cardiac,HealthPlus
+M0029,Insulin,Vitamin,HealthPlus
+M0030,Insulin,Antibiotic,BioLabs
+M0031,Insulin,Diabetes,MediCare
+M0032,Amoxicillin,Cardiac,HealthPlus
+M0033,Paracetamol,Antibiotic,PharmaOne
+M0034,Atorvastatin,Antibiotic,HealthPlus
+M0035,Amoxicillin,Painkiller,HealthPlus
+M0036,Atorvastatin,Vitamin,HealthPlus
+M0037,Paracetamol,Painkiller,HealthPlus
+M0038,Atorvastatin,Antibiotic,PharmaOne
+M0039,Insulin,Painkiller,HealthPlus
+M0040,Atorvastatin,Diabetes,HealthPlus
+M0041,Atorvastatin,Painkiller,HealthPlus
+M0042,Vitamin D,Antibiotic,MediCare
+M0043,Paracetamol,Diabetes,BioLabs
+M0044,Atorvastatin,Vitamin,HealthPlus
+M0045,Vitamin D,Cardiac,HealthPlus
+M0046,Insulin,Cardiac,BioLabs
+M0047,Paracetamol,Antibiotic,BioLabs
+M0048,Amoxicillin,Antibiotic,BioLabs
+M0049,Paracetamol,Antibiotic,MediCare
+M0050,Amoxicillin,Painkiller,PharmaOne
+M0051,Paracetamol,Painkiller,BioLabs
+M0052,Amoxicillin,Vitamin,PharmaOne
+M0053,Insulin,Antibiotic,PharmaOne
+M0054,Vitamin D,Cardiac,MediCare
+M0055,Amoxicillin,Vitamin,BioLabs
+M0056,Atorvastatin,Painkiller,BioLabs
+M0057,Paracetamol,Vitamin,BioLabs
+M0058,Amoxicillin,Diabetes,BioLabs
+M0059,Atorvastatin,Painkiller,HealthPlus
+M0060,Atorvastatin,Vitamin,BioLabs
+M0061,Atorvastatin,Cardiac,PharmaOne
+M0062,Paracetamol,Antibiotic,BioLabs
+M0063,Atorvastatin,Vitamin,HealthPlus
+M0064,Paracetamol,Vitamin,MediCare
+M0065,Paracetamol,Diabetes,BioLabs
+M0066,Insulin,Antibiotic,HealthPlus
+M0067,Atorvastatin,Antibiotic,PharmaOne
+M0068,Insulin,Vitamin,BioLabs
+M0069,Insulin,Vitamin,BioLabs
+M0070,Atorvastatin,Antibiotic,MediCare
+M0071,Amoxicillin,Vitamin,HealthPlus
+M0072,Paracetamol,Cardiac,HealthPlus
+M0073,Insulin,Painkiller,HealthPlus
+M0074,Atorvastatin,Antibiotic,PharmaOne
+M0075,Paracetamol,Antibiotic,MediCare
+M0076,Vitamin D,Painkiller,HealthPlus
+M0077,Atorvastatin,Cardiac,MediCare
+M0078,Vitamin D,Cardiac,PharmaOne
+M0079,Insulin,Diabetes,PharmaOne
+M0080,Vitamin D,Cardiac,BioLabs
+M0081,Insulin,Diabetes,PharmaOne
+M0082,Vitamin D,Vitamin,HealthPlus
+M0083,Amoxicillin,Vitamin,PharmaOne
+M0084,Insulin,Painkiller,MediCare
+M0085,Insulin,Painkiller,HealthPlus
+M0086,Insulin,Antibiotic,BioLabs
+M0087,Paracetamol,Antibiotic,BioLabs
+M0088,Paracetamol,Antibiotic,BioLabs
+M0089,Vitamin D,Painkiller,BioLabs
+M0090,Insulin,Painkiller,PharmaOne
+M0091,Paracetamol,Antibiotic,BioLabs
+M0092,Paracetamol,Antibiotic,HealthPlus
+M0093,Atorvastatin,Painkiller,HealthPlus
+M0094,Amoxicillin,Antibiotic,HealthPlus
+M0095,Amoxicillin,Cardiac,MediCare
+M0096,Amoxicillin,Antibiotic,MediCare
+M0097,Amoxicillin,Vitamin,PharmaOne
+M0098,Insulin,Vitamin,BioLabs
+M0099,Insulin,Cardiac,HealthPlus
+M0100,Vitamin D,Diabetes,MediCare
+M0101,Amoxicillin,Vitamin,PharmaOne
+M0102,Insulin,Vitamin,PharmaOne
+M0103,Insulin,Antibiotic,BioLabs
+M0104,Paracetamol,Painkiller,BioLabs
+M0105,Vitamin D,Painkiller,HealthPlus
+M0106,Vitamin D,Antibiotic,HealthPlus
+M0107,Paracetamol,Painkiller,MediCare
+M0108,Paracetamol,Cardiac,BioLabs
+M0109,Atorvastatin,Diabetes,PharmaOne
+M0110,Amoxicillin,Diabetes,BioLabs
+M0111,Paracetamol,Cardiac,BioLabs
+M0112,Amoxicillin,Cardiac,MediCare
+M0113,Atorvastatin,Cardiac,BioLabs
+M0114,Paracetamol,Diabetes,MediCare
+M0115,Paracetamol,Antibiotic,PharmaOne
+M0116,Atorvastatin,Antibiotic,BioLabs
+M0117,Vitamin D,Antibiotic,BioLabs
+M0118,Amoxicillin,Antibiotic,PharmaOne
+M0119,Insulin,Antibiotic,BioLabs
+M0120,Vitamin D,Antibiotic,PharmaOne
+M0121,Insulin,Diabetes,PharmaOne
+M0122,Vitamin D,Antibiotic,BioLabs
+M0123,Insulin,Antibiotic,HealthPlus
+M0124,Paracetamol,Vitamin,HealthPlus
+M0125,Insulin,Antibiotic,HealthPlus
+M0126,Paracetamol,Painkiller,PharmaOne
+M0127,Paracetamol,Antibiotic,BioLabs
+M0128,Atorvastatin,Antibiotic,MediCare
+M0129,Atorvastatin,Antibiotic,BioLabs
+M0130,Insulin,Vitamin,PharmaOne
+M0131,Paracetamol,Diabetes,MediCare
+M0132,Insulin,Cardiac,BioLabs
+M0133,Paracetamol,Antibiotic,PharmaOne
+M0134,Vitamin D,Painkiller,PharmaOne
+M0135,Amoxicillin,Antibiotic,HealthPlus
+M0136,Paracetamol,Painkiller,MediCare
+M0137,Atorvastatin,Cardiac,MediCare
+M0138,Vitamin D,Diabetes,HealthPlus
+M0139,Amoxicillin,Antibiotic,BioLabs
+M0140,Vitamin D,Antibiotic,BioLabs
+M0141,Atorvastatin,Painkiller,BioLabs
+M0142,Paracetamol,Vitamin,PharmaOne
+M0143,Paracetamol,Diabetes,HealthPlus
+M0144,Amoxicillin,Antibiotic,BioLabs
+M0145,Atorvastatin,Vitamin,PharmaOne
+M0146,Amoxicillin,Painkiller,HealthPlus
+M0147,Insulin,Diabetes,BioLabs
+M0148,Amoxicillin,Diabetes,PharmaOne
+M0149,Vitamin D,Vitamin,HealthPlus
+M0150,Vitamin D,Vitamin,PharmaOne
+M0151,Amoxicillin,Cardiac,PharmaOne
+M0152,Atorvastatin,Cardiac,HealthPlus
+M0153,Amoxicillin,Antibiotic,MediCare
+M0154,Paracetamol,Vitamin,MediCare
+M0155,Amoxicillin,Vitamin,HealthPlus
+M0156,Insulin,Antibiotic,MediCare
+M0157,Vitamin D,Vitamin,MediCare
+M0158,Amoxicillin,Vitamin,PharmaOne
+M0159,Vitamin D,Painkiller,BioLabs
+M0160,Amoxicillin,Vitamin,MediCare
+M0161,Amoxicillin,Vitamin,PharmaOne
+M0162,Atorvastatin,Cardiac,MediCare
+M0163,Paracetamol,Painkiller,PharmaOne
+M0164,Vitamin D,Antibiotic,PharmaOne
+M0165,Paracetamol,Cardiac,MediCare
+M0166,Amoxicillin,Cardiac,BioLabs
+M0167,Amoxicillin,Antibiotic,PharmaOne
+M0168,Atorvastatin,Painkiller,HealthPlus
+M0169,Amoxicillin,Painkiller,PharmaOne
+M0170,Atorvastatin,Antibiotic,HealthPlus
+M0171,Atorvastatin,Diabetes,PharmaOne
+M0172,Insulin,Antibiotic,HealthPlus
+M0173,Paracetamol,Cardiac,MediCare
+M0174,Amoxicillin,Cardiac,MediCare
+M0175,Atorvastatin,Cardiac,MediCare
+M0176,Paracetamol,Diabetes,PharmaOne
+M0177,Atorvastatin,Antibiotic,HealthPlus
+M0178,Paracetamol,Diabetes,MediCare
+M0179,Amoxicillin,Painkiller,HealthPlus
+M0180,Amoxicillin,Painkiller,MediCare
+M0181,Amoxicillin,Cardiac,MediCare
+M0182,Vitamin D,Diabetes,PharmaOne
+M0183,Amoxicillin,Diabetes,HealthPlus
+M0184,Vitamin D,Vitamin,PharmaOne
+M0185,Insulin,Antibiotic,BioLabs
+M0186,Vitamin D,Vitamin,HealthPlus
+M0187,Paracetamol,Painkiller,BioLabs
+M0188,Atorvastatin,Cardiac,MediCare
+M0189,Atorvastatin,Vitamin,BioLabs
+M0190,Vitamin D,Antibiotic,BioLabs
+M0191,Amoxicillin,Antibiotic,MediCare
+M0192,Paracetamol,Painkiller,HealthPlus
+M0193,Paracetamol,Antibiotic,MediCare
+M0194,Insulin,Antibiotic,MediCare
+M0195,Insulin,Vitamin,HealthPlus
+M0196,Amoxicillin,Vitamin,MediCare
+M0197,Paracetamol,Diabetes,PharmaOne
+M0198,Paracetamol,Antibiotic,HealthPlus
+M0199,Amoxicillin,Cardiac,MediCare
+M0200,Insulin,Cardiac,PharmaOne
+M0201,Vitamin D,Painkiller,BioLabs
+M0202,Paracetamol,Antibiotic,MediCare
+M0203,Atorvastatin,Antibiotic,PharmaOne
+M0204,Insulin,Painkiller,HealthPlus
+M0205,Vitamin D,Antibiotic,PharmaOne
+M0206,Amoxicillin,Vitamin,MediCare
+M0207,Atorvastatin,Painkiller,MediCare
+M0208,Atorvastatin,Diabetes,HealthPlus
+M0209,Amoxicillin,Cardiac,HealthPlus
+M0210,Insulin,Vitamin,BioLabs
+M0211,Insulin,Cardiac,BioLabs
+M0212,Atorvastatin,Vitamin,HealthPlus
+M0213,Atorvastatin,Cardiac,MediCare
+M0214,Vitamin D,Painkiller,HealthPlus
+M0215,Paracetamol,Diabetes,PharmaOne
+M0216,Amoxicillin,Cardiac,MediCare
+M0217,Insulin,Cardiac,PharmaOne
+M0218,Vitamin D,Cardiac,PharmaOne
+M0219,Vitamin D,Diabetes,BioLabs
+M0220,Paracetamol,Cardiac,BioLabs
+M0221,Amoxicillin,Cardiac,PharmaOne
+M0222,Paracetamol,Cardiac,HealthPlus
+M0223,Paracetamol,Painkiller,BioLabs
+M0224,Amoxicillin,Painkiller,PharmaOne
+M0225,Atorvastatin,Painkiller,PharmaOne
+M0226,Insulin,Vitamin,PharmaOne
+M0227,Vitamin D,Vitamin,BioLabs
+M0228,Amoxicillin,Painkiller,MediCare
+M0229,Vitamin D,Cardiac,PharmaOne
+M0230,Amoxicillin,Diabetes,HealthPlus
+M0231,Insulin,Antibiotic,PharmaOne
+M0232,Vitamin D,Antibiotic,BioLabs
+M0233,Paracetamol,Painkiller,MediCare
+M0234,Paracetamol,Cardiac,BioLabs
+M0235,Vitamin D,Cardiac,MediCare
+M0236,Insulin,Vitamin,MediCare
+M0237,Atorvastatin,Cardiac,MediCare
+M0238,Vitamin D,Vitamin,HealthPlus
+M0239,Atorvastatin,Diabetes,BioLabs
+M0240,Amoxicillin,Vitamin,BioLabs
+M0241,Paracetamol,Diabetes,HealthPlus
+M0242,Vitamin D,Vitamin,HealthPlus
+M0243,Insulin,Antibiotic,BioLabs
+M0244,Insulin,Painkiller,MediCare
+M0245,Amoxicillin,Cardiac,MediCare
+M0246,Insulin,Vitamin,PharmaOne
+M0247,Vitamin D,Diabetes,MediCare
+M0248,Paracetamol,Painkiller,BioLabs
+M0249,Paracetamol,Vitamin,BioLabs
+M0250,Amoxicillin,Painkiller,BioLabs
+M0251,Amoxicillin,Painkiller,HealthPlus
+M0252,Atorvastatin,Painkiller,HealthPlus
+M0253,Amoxicillin,Cardiac,PharmaOne
+M0254,Vitamin D,Cardiac,BioLabs
+M0255,Vitamin D,Diabetes,PharmaOne
+M0256,Paracetamol,Painkiller,HealthPlus
+M0257,Insulin,Vitamin,MediCare
+M0258,Amoxicillin,Diabetes,PharmaOne
+M0259,Atorvastatin,Diabetes,HealthPlus
+M0260,Vitamin D,Antibiotic,HealthPlus
+M0261,Paracetamol,Antibiotic,PharmaOne
+M0262,Vitamin D,Vitamin,BioLabs
+M0263,Paracetamol,Vitamin,HealthPlus
+M0264,Vitamin D,Antibiotic,HealthPlus
+M0265,Paracetamol,Cardiac,PharmaOne
+M0266,Amoxicillin,Painkiller,PharmaOne
+M0267,Insulin,Painkiller,HealthPlus
+M0268,Vitamin D,Diabetes,HealthPlus
+M0269,Atorvastatin,Antibiotic,BioLabs
+M0270,Amoxicillin,Painkiller,MediCare
+M0271,Vitamin D,Cardiac,BioLabs
+M0272,Paracetamol,Vitamin,BioLabs
+M0273,Paracetamol,Painkiller,HealthPlus
+M0274,Vitamin D,Cardiac,MediCare
+M0275,Amoxicillin,Cardiac,MediCare
+M0276,Atorvastatin,Vitamin,BioLabs
+M0277,Amoxicillin,Antibiotic,HealthPlus
+M0278,Insulin,Antibiotic,HealthPlus
+M0279,Atorvastatin,Antibiotic,HealthPlus
+M0280,Amoxicillin,Diabetes,MediCare
+M0281,Insulin,Diabetes,PharmaOne
+M0282,Atorvastatin,Antibiotic,MediCare
+M0283,Vitamin D,Cardiac,MediCare
+M0284,Amoxicillin,Diabetes,MediCare
+M0285,Amoxicillin,Vitamin,MediCare
+M0286,Atorvastatin,Painkiller,PharmaOne
+M0287,Paracetamol,Cardiac,MediCare
+M0288,Vitamin D,Antibiotic,HealthPlus
+M0289,Paracetamol,Antibiotic,PharmaOne
+M0290,Insulin,Vitamin,HealthPlus
+M0291,Amoxicillin,Vitamin,MediCare
+M0292,Vitamin D,Cardiac,PharmaOne
+M0293,Paracetamol,Painkiller,BioLabs
+M0294,Amoxicillin,Vitamin,HealthPlus
+M0295,Paracetamol,Vitamin,HealthPlus
+M0296,Amoxicillin,Cardiac,MediCare
+M0297,Paracetamol,Painkiller,HealthPlus
+M0298,Insulin,Antibiotic,HealthPlus
+M0299,Atorvastatin,Painkiller,BioLabs
+M0300,Atorvastatin,Antibiotic,MediCare

@@ -1,0 +1,251 @@
+flight_id,airline,origin,destination,flight_type
+F0001,Air India,Kolkata,Mumbai,Regional
+F0002,Akasa,Patna,Kolkata,Regional
+F0003,Air India,Mumbai,Kolkata,Domestic
+F0004,IndiGo,Mumbai,Kolkata,Regional
+F0005,Akasa,Mumbai,Delhi,Regional
+F0006,Air India,Delhi,Delhi,Domestic
+F0007,IndiGo,Patna,Kolkata,Regional
+F0008,Air India,Kolkata,Delhi,Domestic
+F0009,IndiGo,Mumbai,Mumbai,Domestic
+F0010,Akasa,Kolkata,Delhi,Domestic
+F0011,Air India,Patna,Kolkata,Domestic
+F0012,IndiGo,Patna,Kolkata,Domestic
+F0013,Vistara,Patna,Bangalore,Domestic
+F0014,IndiGo,Delhi,Mumbai,Regional
+F0015,Akasa,Delhi,Kolkata,Regional
+F0016,Vistara,Delhi,Bangalore,Domestic
+F0017,Air India,Patna,Mumbai,Domestic
+F0018,Akasa,Delhi,Mumbai,Regional
+F0019,IndiGo,Kolkata,Mumbai,Domestic
+F0020,Vistara,Delhi,Mumbai,Regional
+F0021,IndiGo,Mumbai,Bangalore,Regional
+F0022,Air India,Patna,Delhi,Regional
+F0023,Akasa,Kolkata,Kolkata,Regional
+F0024,Air India,Kolkata,Bangalore,Domestic
+F0025,Vistara,Patna,Delhi,Regional
+F0026,Vistara,Patna,Bangalore,Domestic
+F0027,Akasa,Delhi,Mumbai,Regional
+F0028,Air India,Kolkata,Bangalore,Domestic
+F0029,Akasa,Patna,Kolkata,Domestic
+F0030,Vistara,Delhi,Mumbai,Regional
+F0031,Vistara,Kolkata,Delhi,Regional
+F0032,IndiGo,Mumbai,Kolkata,Domestic
+F0033,Vistara,Mumbai,Bangalore,Regional
+F0034,Vistara,Delhi,Delhi,Regional
+F0035,Vistara,Delhi,Kolkata,Regional
+F0036,Air India,Patna,Mumbai,Domestic
+F0037,Vistara,Mumbai,Delhi,Domestic
+F0038,Akasa,Delhi,Bangalore,Regional
+F0039,Akasa,Kolkata,Delhi,Domestic
+F0040,Akasa,Patna,Delhi,Regional
+F0041,Vistara,Patna,Delhi,Domestic
+F0042,Air India,Mumbai,Mumbai,Domestic
+F0043,Air India,Mumbai,Kolkata,Domestic
+F0044,Vistara,Delhi,Kolkata,Domestic
+F0045,Akasa,Patna,Mumbai,Regional
+F0046,Air India,Mumbai,Delhi,Domestic
+F0047,Akasa,Mumbai,Bangalore,Domestic
+F0048,IndiGo,Kolkata,Mumbai,Regional
+F0049,IndiGo,Mumbai,Kolkata,Domestic
+F0050,Akasa,Mumbai,Kolkata,Regional
+F0051,Air India,Patna,Delhi,Regional
+F0052,Akasa,Delhi,Bangalore,Regional
+F0053,IndiGo,Patna,Delhi,Regional
+F0054,Akasa,Delhi,Mumbai,Regional
+F0055,IndiGo,Kolkata,Kolkata,Regional
+F0056,Akasa,Kolkata,Delhi,Domestic
+F0057,Akasa,Mumbai,Bangalore,Domestic
+F0058,Vistara,Mumbai,Bangalore,Regional
+F0059,Air India,Patna,Bangalore,Domestic
+F0060,Air India,Delhi,Kolkata,Domestic
+F0061,Air India,Mumbai,Mumbai,Regional
+F0062,Vistara,Mumbai,Bangalore,Regional
+F0063,IndiGo,Patna,Kolkata,Domestic
+F0064,IndiGo,Patna,Mumbai,Domestic
+F0065,IndiGo,Patna,Delhi,Regional
+F0066,Air India,Kolkata,Bangalore,Regional
+F0067,Akasa,Patna,Bangalore,Regional
+F0068,Air India,Patna,Mumbai,Regional
+F0069,Akasa,Mumbai,Mumbai,Domestic
+F0070,Vistara,Delhi,Bangalore,Regional
+F0071,IndiGo,Delhi,Delhi,Regional
+F0072,IndiGo,Patna,Kolkata,Domestic
+F0073,IndiGo,Kolkata,Bangalore,Regional
+F0074,Vistara,Kolkata,Kolkata,Regional
+F0075,Air India,Kolkata,Delhi,Domestic
+F0076,Air India,Patna,Bangalore,Domestic
+F0077,Air India,Patna,Bangalore,Regional
+F0078,IndiGo,Mumbai,Bangalore,Regional
+F0079,Vistara,Kolkata,Kolkata,Regional
+F0080,IndiGo,Delhi,Bangalore,Domestic
+F0081,IndiGo,Kolkata,Delhi,Domestic
+F0082,Air India,Patna,Delhi,Domestic
+F0083,Air India,Mumbai,Delhi,Regional
+F0084,Akasa,Mumbai,Bangalore,Regional
+F0085,Akasa,Mumbai,Bangalore,Regional
+F0086,Akasa,Delhi,Mumbai,Regional
+F0087,IndiGo,Kolkata,Mumbai,Regional
+F0088,Vistara,Mumbai,Delhi,Domestic
+F0089,IndiGo,Delhi,Kolkata,Regional
+F0090,Vistara,Kolkata,Bangalore,Regional
+F0091,IndiGo,Kolkata,Mumbai,Domestic
+F0092,Air India,Delhi,Bangalore,Domestic
+F0093,Air India,Mumbai,Delhi,Regional
+F0094,Akasa,Patna,Kolkata,Domestic
+F0095,IndiGo,Patna,Kolkata,Domestic
+F0096,Akasa,Delhi,Kolkata,Regional
+F0097,Vistara,Patna,Kolkata,Domestic
+F0098,IndiGo,Kolkata,Kolkata,Regional
+F0099,Air India,Patna,Bangalore,Domestic
+F0100,Akasa,Patna,Bangalore,Regional
+F0101,IndiGo,Mumbai,Bangalore,Domestic
+F0102,Vistara,Patna,Kolkata,Regional
+F0103,IndiGo,Kolkata,Delhi,Domestic
+F0104,Vistara,Patna,Bangalore,Domestic
+F0105,Akasa,Patna,Bangalore,Domestic
+F0106,Akasa,Delhi,Mumbai,Domestic
+F0107,IndiGo,Delhi,Kolkata,Domestic
+F0108,Vistara,Delhi,Kolkata,Regional
+F0109,IndiGo,Patna,Kolkata,Regional
+F0110,Vistara,Mumbai,Delhi,Regional
+F0111,Vistara,Kolkata,Kolkata,Domestic
+F0112,IndiGo,Mumbai,Delhi,Domestic
+F0113,Vistara,Patna,Bangalore,Regional
+F0114,IndiGo,Patna,Bangalore,Regional
+F0115,Vistara,Delhi,Mumbai,Regional
+F0116,Akasa,Patna,Bangalore,Domestic
+F0117,Vistara,Kolkata,Kolkata,Domestic
+F0118,Vistara,Kolkata,Mumbai,Regional
+F0119,Vistara,Kolkata,Mumbai,Regional
+F0120,IndiGo,Patna,Delhi,Domestic
+F0121,Vistara,Delhi,Kolkata,Domestic
+F0122,IndiGo,Delhi,Bangalore,Domestic
+F0123,Akasa,Patna,Kolkata,Regional
+F0124,Akasa,Delhi,Bangalore,Regional
+F0125,IndiGo,Mumbai,Delhi,Regional
+F0126,IndiGo,Kolkata,Mumbai,Regional
+F0127,IndiGo,Kolkata,Kolkata,Domestic
+F0128,Vistara,Mumbai,Mumbai,Regional
+F0129,Air India,Patna,Mumbai,Regional
+F0130,Vistara,Kolkata,Kolkata,Regional
+F0131,Akasa,Delhi,Kolkata,Regional
+F0132,Akasa,Patna,Bangalore,Regional
+F0133,Akasa,Kolkata,Mumbai,Regional
+F0134,Vistara,Delhi,Bangalore,Domestic
+F0135,Air India,Kolkata,Kolkata,Regional
+F0136,Air India,Kolkata,Mumbai,Regional
+F0137,Vistara,Kolkata,Kolkata,Regional
+F0138,Vistara,Delhi,Kolkata,Domestic
+F0139,IndiGo,Mumbai,Bangalore,Regional
+F0140,Akasa,Mumbai,Delhi,Domestic
+F0141,Air India,Delhi,Delhi,Domestic
+F0142,Akasa,Patna,Delhi,Domestic
+F0143,Vistara,Kolkata,Bangalore,Domestic
+F0144,Akasa,Delhi,Delhi,Regional
+F0145,Vistara,Kolkata,Delhi,Regional
+F0146,Air India,Patna,Kolkata,Domestic
+F0147,Vistara,Kolkata,Kolkata,Domestic
+F0148,Vistara,Delhi,Mumbai,Regional
+F0149,Vistara,Kolkata,Delhi,Regional
+F0150,Air India,Kolkata,Kolkata,Domestic
+F0151,Vistara,Mumbai,Delhi,Regional
+F0152,IndiGo,Patna,Kolkata,Regional
+F0153,Vistara,Delhi,Delhi,Domestic
+F0154,Air India,Mumbai,Bangalore,Regional
+F0155,Vistara,Delhi,Mumbai,Regional
+F0156,Vistara,Kolkata,Delhi,Domestic
+F0157,Air India,Patna,Kolkata,Regional
+F0158,IndiGo,Patna,Kolkata,Regional
+F0159,Vistara,Patna,Kolkata,Domestic
+F0160,IndiGo,Delhi,Kolkata,Regional
+F0161,Vistara,Mumbai,Delhi,Regional
+F0162,Vistara,Mumbai,Kolkata,Regional
+F0163,Air India,Mumbai,Mumbai,Regional
+F0164,Akasa,Patna,Mumbai,Domestic
+F0165,IndiGo,Delhi,Kolkata,Domestic
+F0166,Air India,Kolkata,Kolkata,Domestic
+F0167,Air India,Kolkata,Mumbai,Domestic
+F0168,Air India,Mumbai,Kolkata,Regional
+F0169,IndiGo,Kolkata,Kolkata,Regional
+F0170,Air India,Kolkata,Bangalore,Domestic
+F0171,Akasa,Mumbai,Kolkata,Regional
+F0172,Akasa,Mumbai,Kolkata,Domestic
+F0173,Akasa,Kolkata,Delhi,Domestic
+F0174,Vistara,Kolkata,Delhi,Regional
+F0175,IndiGo,Delhi,Delhi,Regional
+F0176,Akasa,Patna,Kolkata,Regional
+F0177,Air India,Patna,Kolkata,Domestic
+F0178,Vistara,Mumbai,Mumbai,Domestic
+F0179,Air India,Mumbai,Delhi,Domestic
+F0180,Air India,Patna,Bangalore,Regional
+F0181,Air India,Mumbai,Delhi,Domestic
+F0182,IndiGo,Mumbai,Mumbai,Regional
+F0183,Akasa,Kolkata,Kolkata,Domestic
+F0184,Air India,Patna,Delhi,Regional
+F0185,Vistara,Delhi,Mumbai,Domestic
+F0186,Vistara,Patna,Bangalore,Domestic
+F0187,Akasa,Patna,Kolkata,Regional
+F0188,Vistara,Mumbai,Bangalore,Domestic
+F0189,Akasa,Delhi,Bangalore,Regional
+F0190,Air India,Patna,Bangalore,Domestic
+F0191,Air India,Mumbai,Bangalore,Regional
+F0192,Vistara,Patna,Delhi,Domestic
+F0193,Akasa,Patna,Mumbai,Regional
+F0194,Air India,Delhi,Kolkata,Regional
+F0195,Akasa,Mumbai,Delhi,Domestic
+F0196,Air India,Mumbai,Bangalore,Regional
+F0197,Akasa,Kolkata,Kolkata,Domestic
+F0198,Vistara,Delhi,Mumbai,Domestic
+F0199,Air India,Patna,Bangalore,Domestic
+F0200,Vistara,Mumbai,Delhi,Domestic
+F0201,IndiGo,Delhi,Kolkata,Regional
+F0202,Vistara,Delhi,Bangalore,Regional
+F0203,Vistara,Kolkata,Kolkata,Regional
+F0204,Vistara,Mumbai,Delhi,Domestic
+F0205,Air India,Mumbai,Bangalore,Domestic
+F0206,Vistara,Delhi,Delhi,Regional
+F0207,Akasa,Patna,Kolkata,Domestic
+F0208,Air India,Kolkata,Bangalore,Regional
+F0209,Vistara,Kolkata,Mumbai,Regional
+F0210,IndiGo,Delhi,Kolkata,Regional
+F0211,IndiGo,Kolkata,Delhi,Regional
+F0212,IndiGo,Kolkata,Delhi,Domestic
+F0213,Vistara,Patna,Kolkata,Regional
+F0214,Vistara,Kolkata,Mumbai,Domestic
+F0215,Air India,Patna,Bangalore,Regional
+F0216,Vistara,Patna,Bangalore,Domestic
+F0217,Vistara,Patna,Mumbai,Regional
+F0218,IndiGo,Kolkata,Delhi,Regional
+F0219,Vistara,Delhi,Mumbai,Domestic
+F0220,Akasa,Mumbai,Kolkata,Domestic
+F0221,Air India,Patna,Kolkata,Regional
+F0222,Akasa,Mumbai,Mumbai,Domestic
+F0223,Air India,Mumbai,Kolkata,Domestic
+F0224,Akasa,Patna,Kolkata,Regional
+F0225,Vistara,Mumbai,Mumbai,Regional
+F0226,Air India,Kolkata,Kolkata,Domestic
+F0227,IndiGo,Patna,Delhi,Domestic
+F0228,Akasa,Mumbai,Mumbai,Domestic
+F0229,IndiGo,Kolkata,Mumbai,Domestic
+F0230,Vistara,Delhi,Kolkata,Regional
+F0231,IndiGo,Kolkata,Kolkata,Regional
+F0232,Air India,Delhi,Mumbai,Domestic
+F0233,IndiGo,Kolkata,Delhi,Regional
+F0234,Air India,Mumbai,Delhi,Domestic
+F0235,Akasa,Mumbai,Bangalore,Domestic
+F0236,Akasa,Kolkata,Bangalore,Regional
+F0237,Vistara,Patna,Kolkata,Regional
+F0238,Air India,Kolkata,Kolkata,Domestic
+F0239,IndiGo,Kolkata,Delhi,Domestic
+F0240,Vistara,Mumbai,Mumbai,Regional
+F0241,Vistara,Mumbai,Kolkata,Domestic
+F0242,IndiGo,Mumbai,Delhi,Regional
+F0243,Vistara,Mumbai,Bangalore,Regional
+F0244,Vistara,Kolkata,Kolkata,Domestic
+F0245,Vistara,Mumbai,Bangalore,Domestic
+F0246,IndiGo,Mumbai,Bangalore,Regional
+F0247,Vistara,Patna,Kolkata,Regional
+F0248,Vistara,Patna,Bangalore,Regional
+F0249,Akasa,Patna,Kolkata,Domestic
+F0250,Vistara,Kolkata,Mumbai,Domestic
